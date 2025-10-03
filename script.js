@@ -1,0 +1,1 @@
+console.log("Chatbot integration placeholder");
